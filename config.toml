@@ -1,0 +1,77 @@
+baseURL = "praxis.ilizwi.co.za"
+languageCode = "en-za"
+title = "PRAXIS"
+theme = "hello-friend-ng"
+author = "Paul Joubert"
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/episodes/:title/"
+
+[taxonomies]
+  tag      = "tags"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "a podcast about theory and practice"
+  keywords = "PRAXIS, podcast, politics, philosophy, South Africa"
+  copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "episodes"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  homeSubtitle = "a podcast about theory and practice"
+
+  [params.logo]
+      logoText = "℗"
+      logoHomeLink = "/"
+      #path = "/logo_transp_white.png"
+      #alt = "PRAXIS"
+      
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/prxs0"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:paul@ilizwi.co.za"
+
+  [[params.social]]
+    name = "facebook"
+    url  = "https://facebook.com/prxs0"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/prxs0"
+
+[languages]
+  [languages.en]
+    title     = "PRAXIS"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+#[menu]
+#  [[menu.main]]
+#    identifier = "about"
+#    name       = "About"
+#    url        = "/about"
+#  #[[menu.main]]
+#  #  identifier = "episodes"
+#  #  name       = "Episodes"
+#  #  url        = "/episodes"
