@@ -1,4 +1,4 @@
-baseURL = "praxis.ilizwi.co.za"
+baseURL = "/"
 languageCode = "en-za"
 title = "PRAXIS"
 theme = "hello-friend-ng"
