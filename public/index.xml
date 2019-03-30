@@ -7,9 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-za</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 17 Mar 2019 22:57:53 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 17 Mar 2019 22:57:53 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>“Praxis” is to analyse ideas, identify problems, find answers, and engage in the process of enacting change – the dialectic synthesis of theory and practice.
+PRAXIS is a new podcast project that will analyse concepts relevant to students as citizens of a university, a country, and the world. The medium itself is important: PRAXIS seeks to fill a certain (currently unoccupied) niche in the campus media landscape, but also to experiment with and challenge the auditory medium, technically and narratively.</description>
+    </item>
     
   </channel>
 </rss>
