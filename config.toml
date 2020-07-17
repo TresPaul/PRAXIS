@@ -4,6 +4,8 @@ title = "PRAXIS"
 theme = "hello-friend-ng"
 author = "Paul Joubert"
 
+googleAnalytics = "UA-119740308-2"
+
 enableRobotsTXT = true
 enableGitInfo   = false
 enableEmoji     = true
