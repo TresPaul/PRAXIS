@@ -69,7 +69,7 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "ABOUT"
     url        = "/about"
   #[[menu.main]]
   #  identifier = "episodes"
